@@ -1,0 +1,16 @@
+//Base Files
+@import "base/normalize";
+
+//Vendor files
+@import "vendor/simple-grid";
+
+//Helper files
+@import "helpers/mixins";
+@import "helpers/variables";
+
+//Partial files
+@import "partials/header";
+@import "partials/content";
+@import "partials/footer";
+@import "partials/forms";
+
